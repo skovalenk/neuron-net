@@ -1,0 +1,9 @@
+stimulated:
+  class : "Sereban\\NeuronNet\\Neuron\\Stim"
+  index : 0
+associated:
+  class : "Sereban\\NeuronNet\\Neuron\\Assoc"
+  index : 0
+reaction:
+  class : "Sereban\\NeuronNet\\Neuron\\React"
+  index : 0

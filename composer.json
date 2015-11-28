@@ -1,0 +1,27 @@
+{
+  "name" : "kanabist/neuron-network",
+  "description" : "Back Propagation Neuron Network",
+  "type" : "library",
+  "license" : "MIT",
+  "authors" : [
+    {
+      "name":     "Sergey Kovalenko",
+      "email":    "ganster3012@gmail.com"
+    }
+  ],
+  "keywords" : [
+    "Neuron Net",
+    "Back Propagation"
+  ],
+  "require" : {
+    "phpunit/phpunit": "5.0.*"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "autoload" : {
+    "psr-4" : {
+      "Sereban\\NeuronNet\\Tests\\Lib\\" : "tests/lib",
+      "Sereban\\NeuronNet\\" : "src"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+direct:
+  1:
+    data:
+      - 0.5
+      - 0.8
+      - 0.4
+      - 0.9
+    result:
+      associated: 0.930861579657
+      reaction: -0.0599086680348
+  2:
+    data:
+      - -0.3
+      - -0.2
+      - 0.9
+      - 0.8
+    result:
+      associated: 0.768524783499
+      reaction: -0.136716286484
+reverse:
+  1:
+    data:
+      - 0.02
+      - -0.03
+      - 0.003
+      - 0.0006
+    result:
+      associated: -0.0016
+      reaction: 0.125398714547
+  2:
+    data:
+      - -0.02
+      - 0.03
+      - -0.003
+      - 0.001
+    result:
+      associated: 0.002
+      reaction: 0.124498010688
+
+###TEACHER VALUE SHOULD BE 1
