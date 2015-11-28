@@ -1,5 +1,5 @@
 {
-  "name" : "kanabist/neuron-network",
+  "name" : "sereban/neuron-net",
   "description" : "Back Propagation Neuron Network",
   "type" : "library",
   "license" : "MIT",
@@ -16,7 +16,7 @@
   "require" : {
     "phpunit/phpunit": "5.0.*"
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": true,
   "autoload" : {
     "psr-4" : {
